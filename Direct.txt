@@ -1,1 +1,2 @@
-
+git.apad.pro
+mirror.apad.pro
