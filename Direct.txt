@@ -2,3 +2,4 @@ git.apad.pro
 mirror.apad.pro
 +.lg.*.claw.cloud
 +.bzmshang.top
++.lg.*.akile.io
